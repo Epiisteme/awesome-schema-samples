@@ -1,4 +1,7 @@
 
+## JSON Schema for Reference
+- https://www.json.org/example.html
+
 ## JSON Schema for Chaincodes
 - https://github.com/freight-trust/tradedocs/blob/master/schema/UniversalCommon.json
 
